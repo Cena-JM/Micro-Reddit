@@ -8,5 +8,5 @@ There is no front end, you can use the Rails console to play around with models 
 
 ### Developed by
 
-[Musa Jabbaaru Ntege](https://github.com/Cena-JM)
+[Musa Jabbaaru Ntege](https://github.com/Cena-JM)<br>
 [Kingsley Omotayo](https://github.com/kvnlay)
