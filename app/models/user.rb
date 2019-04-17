@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+# user model
 
 class User < ApplicationRecord
   validates :name, presence: true, length: { minimum: 6, maximum: 20 }
